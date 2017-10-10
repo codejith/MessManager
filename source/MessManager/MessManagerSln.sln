@@ -16,8 +16,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scripts", "scripts", "{10CB
 		E:\MessManagerDB\create_table.sql = E:\MessManagerDB\create_table.sql
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Console", "Console", "{4204649F-F7D6-46D7-9349-32977CC81F6F}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,7 +35,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{0AEDA3F3-8461-4972-9712-54ED4BE120FF} = {4204649F-F7D6-46D7-9349-32977CC81F6F}
 		{3BFF0826-DBC0-4E5E-9857-B24F96C4D235} = {5FF11CE2-41CA-4C24-9C9F-57B9191BC96A}
 		{10CB252A-EA66-4D88-A3E1-C1B5A5E8C1E8} = {19C5A717-013F-42A6-BD4B-3AC9FDC90C04}
 	EndGlobalSection
